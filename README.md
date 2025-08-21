@@ -32,7 +32,7 @@ The purpose of this project is to develop an intuitive Windows Forms application
 # Getting Started
 
 ## Installation and Launch:
-- git clone https://github.com/Kirillius7/Coalesce
+- git clone https://github.com/Kirillius7/Record-Snap
 - Open the solution file (.sln) in Visual Studio
 - Restore NuGet packages
 - Build the solution (Build > Build Solution or Ctrl+Shift+B)
