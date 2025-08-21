@@ -19,7 +19,7 @@ The application will allow not only capturing entire windows or selected regions
 - **Saving & Exporting**: Save captured images to the computer or copy them to the clipboard.
 
 # Technologies
-- C#, .NET Framework, WinForms, Accord.Video.FFMPEG, FFmpeg, WinAPI32
+C#, .NET Framework, WinForms, Accord.Video.FFMPEG, FFmpeg, WinAPI32
 
 # Purpose: 
 The purpose of this project is to develop an intuitive Windows Forms application that enables users to capture screenshots, record video with audio, and perform basic image editing directly within the program. The project focuses on the interaction between software and the operating system for screen capture, video recording, and rendering graphical elements, while employing methods and tools that ensure performance optimization, image quality preservation, and user-friendly operation.
