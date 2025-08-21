@@ -39,5 +39,5 @@ The purpose of this project is to develop an intuitive Windows Forms application
 - **Editing tools:** annotate with text, shapes, and colors
 - **Save options:** save to PC or copy to clipboard
 
-# Contacts:
+# Contacts
 https://www.linkedin.com/in/kyrylo-popov-ab160536a/
